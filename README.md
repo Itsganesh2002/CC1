@@ -15,3 +15,6 @@ https://old-releases.ubuntu.com/releases/16.04.4/ubuntu-16.04.1-desktop-amd64.is
 src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
     <script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
 
+#gae app engine
+
+https://www.npackd.org/p/com.google.AppEnginePythonSDK/1.9.62
