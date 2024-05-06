@@ -12,6 +12,6 @@ https://old-releases.ubuntu.com/releases/16.04.4/ubuntu-16.04.1-desktop-amd64.is
 
 <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
     <script
-      src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
     <script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
 
